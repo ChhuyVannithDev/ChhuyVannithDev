@@ -1,20 +1,20 @@
 <div align="center">
 
-# Chhuy Vannith
+# CHHUY VANNITH
 
 ### Algorithmic Trading System Developer & Digital Business Builder
 
-I build survival-first trading technology for XAUUSD and practical digital business systems: MetaTrader 5 engines, signal pipelines, websites, e-commerce shops, business-management systems, Telegram bots, and digital marketing operations.
+I build trading technology, digital marketing systems, websites, business tools, and Telegram automation for clients, traders, and online businesses.
 
-[![MQL5](https://img.shields.io/badge/MQL5-A7FF00?style=for-the-badge&labelColor=062A30&color=A7FF00)](#)
-[![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-FFD34D?style=for-the-badge&labelColor=062A30&color=FFD34D)](#)
-[![XAUUSD](https://img.shields.io/badge/XAUUSD-A7FF00?style=for-the-badge&labelColor=062A30&color=A7FF00)](#)
-[![Python](https://img.shields.io/badge/Python-FFD34D?style=for-the-badge&labelColor=062A30&color=FFD34D)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-A7FF00?style=for-the-badge&labelColor=062A30&color=A7FF00)](#)
-[![Telegram](https://img.shields.io/badge/Telegram_Signals-FFD34D?style=for-the-badge&labelColor=062A30&color=FFD34D)](#)
-[![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-A7FF00?style=for-the-badge&labelColor=062A30&color=A7FF00)](https://vincentchhuy.com)
-[![Web Design](https://img.shields.io/badge/Web_Design-FFD34D?style=for-the-badge&labelColor=062A30&color=FFD34D)](#)
-[![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-A7FF00?style=for-the-badge&labelColor=062A30&color=A7FF00)](#)
+[![MQL5](https://img.shields.io/badge/MQL5-0F4A43?style=for-the-badge&labelColor=062A30&color=0F4A43)](#)
+[![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-155A4F?style=for-the-badge&labelColor=062A30&color=155A4F)](#)
+[![XAUUSD](https://img.shields.io/badge/XAUUSD-0F4A43?style=for-the-badge&labelColor=062A30&color=0F4A43)](#)
+[![Python](https://img.shields.io/badge/Python-155A4F?style=for-the-badge&labelColor=062A30&color=155A4F)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-0F4A43?style=for-the-badge&labelColor=062A30&color=0F4A43)](#)
+[![Telegram](https://img.shields.io/badge/Telegram_Signals-155A4F?style=for-the-badge&labelColor=062A30&color=155A4F)](#)
+[![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-0F4A43?style=for-the-badge&labelColor=062A30&color=0F4A43)](https://vincentchhuy.com)
+[![Web Design](https://img.shields.io/badge/Web_Design-155A4F?style=for-the-badge&labelColor=062A30&color=155A4F)](#)
+[![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-0F4A43?style=for-the-badge&labelColor=062A30&color=0F4A43)](#)
 
 </div>
 
@@ -22,7 +22,7 @@ I build survival-first trading technology for XAUUSD and practical digital busin
 
 ## About Me
 
-I am a builder across trading technology, digital marketing, and business automation. My main technical work is algorithmic trading infrastructure for XAUUSD, while my service work helps businesses launch, manage, advertise, and automate their online operations.
+I am a Cambodia-based developer and digital business operator. My work combines trading-system development, marketing operations, web products, automation, and business tools for people who want practical technology that can be used in real operations.
 
 ## Services
 
@@ -36,122 +36,79 @@ I am a builder across trading technology, digital marketing, and business automa
 | **Business Management Systems** | Admin dashboards, workflow tools, internal systems, data views, and lightweight business automation. |
 | **Telegram Bots** | Telegram bot setup for alerts, customer flow, signal delivery, automation, and business operations. |
 
-[![Digital Services Website](https://img.shields.io/badge/Digital_Services-vincentchhuy.com-FFD34D?style=for-the-badge&labelColor=062A30&color=FFD34D)](https://vincentchhuy.com)
+[![Digital Services](https://img.shields.io/badge/Digital_Services-vincentchhuy.com-155A4F?style=for-the-badge&labelColor=062A30&color=155A4F)](https://vincentchhuy.com)
+[![TradingHub](https://img.shields.io/badge/TradingHub-vsmasteryhub.com-0F4A43?style=for-the-badge&labelColor=062A30&color=0F4A43)](https://vsmasteryhub.com)
 
 ## Current Focus
 
-I am actively developing the **VS Gold Intelligence Engine** ecosystem: a modular multi-style XAUUSD engine for MetaTrader 5 with risk-first execution, adaptive grid behavior, VSConcept intelligence, SteadyGrow single-entry logic, recovery controls, telemetry, and pre-release audit gates.
+I am currently focused on private trading technology, client business systems, and digital service products. Public information is intentionally high level, with private implementation details protected.
 
 ```txt
-primary market     = XAUUSD
-core platform      = MetaTrader 5 / MQL5
-main project       = VS Gold Intelligence Engine
-engineering rule   = risk > entry, survival > profit
-release standard   = AutoCheck -> evidence -> fix Critical/High -> GO/NO-GO
-workflow           = research -> build -> sync -> compile -> test -> document
+trading focus      = XAUUSD automation and research tools
+business focus     = digital services, websites, shops, and automation
+client value       = practical systems that save time and support growth
+public policy      = features shown publicly, private details protected
 ```
 
-## Active Ecosystem
+## Platforms & Products
 
-| Area | Status | What It Represents |
+| Area | Public Summary | Link |
 | --- | --- | --- |
-| **VS Gold Intelligence Engine** | Active primary project | Modular XAUUSD EA with VSConcept, SteadyGrow, adaptive grid, recovery states, basket management, dashboard UI, license validation, and AutoCheck telemetry. |
-| **VS SteadyEngine** | Released / stable | Earlier stable engine track, maintained and patched only when specifically targeted. |
-| **V.S Intelligent** | Active ecosystem layer | Python signal brain, split Node backends, public API gateway, dashboards, Supabase persistence, Telegram signal publishing, and optional user auto-trade executor. |
-| **VS AI Analysis** | Research / analytics workspace | ML gates, signal review, diagnostics, retraining support, backtest comparison, and production pipeline analysis. |
-| **VS Global Brain** | Engineering standard | Shared rulebook for all engines: risk first, volatility adaptation, exposure control, basket management, and mandatory release audit discipline. |
-| **VS Indicators Tool** | Future roadmap | Reserved workspace for upcoming indicator and operator-tooling development. |
-| **VS MasterGen BTC** | Separate engine workspace | Isolated BTC engine area, modified only when explicitly targeted. |
-
-## VS Gold Intelligence Engine
-
-| System Layer | Current Work |
-| --- | --- |
-| **Entry Modes** | AUTO, USER_RANGE, PREV_RANGE, VS_CONCEPT, and VS_STEADYGROW execution paths. |
-| **VSConcept** | Technical, sentiment, fundamental, flow, microtrend, fast-move, and execution-stability logic for market-aware direction planning. |
-| **SteadyGrow** | Isolated single-entry SL/TP mode with staged RR management, break-even/trailing behavior, one-entry-per-day control, and dual-side exposure safety. |
-| **Market Classification** | Operator policy model for pause-only, adaptive-only, and adaptive-grid-driver behavior across sideway, trend, choppy, and micro-range states. |
-| **Adaptive Grid** | Volatility-aware pip-step and take-profit logic with range-mode structure, previous-range flow, and hard `MaxTrades` respect. |
-| **VSRecovery + VSLayer** | Drawdown-aware recovery states, imbalance helper logic, trap-pressure handling, force-entry rescue rules, and basket-profit recovery objectives. |
-| **Risk Chain** | Spread, slippage, tick anomaly, volatility, free-margin, drawdown, exposure, session, news, and close-now safety gates. |
-| **Basket Management** | Basket target, SmartLock trailing profit protection, target-equity handling, partial close, BE lock, and trailing behavior. |
-| **Dashboard + Docs** | MT5 dashboard UI, operator HTML documentation, SVG flow diagrams, bilingual user guidance, and runtime explainers. |
-| **AutoCheck** | Schema v5 telemetry/training CSV, module flags, execution-alignment fields, hard-stop evidence, and 22-scenario release matrix. |
+| **TradingHub** | Trading education, tools, services, and client-facing trading ecosystem. | [vsmasteryhub.com](https://vsmasteryhub.com) |
+| **Digital Services** | Digital marketing, ads management, social page support, and business growth services. | [vincentchhuy.com](https://vincentchhuy.com) |
+| **Private Trading Systems** | XAUUSD-focused automation, dashboards, testing workflows, and risk-first trading tools. | Private R&D |
+| **Business Automation** | Websites, e-commerce shops, internal dashboards, Telegram bots, and workflow systems. | Client projects |
 
 ## Engineering Stack
 
 | Stack | Practical Use |
 | --- | --- |
-| **MQL5** | Expert Advisors, modular engine architecture, runtime controls, dashboard objects, MT5 execution flow. |
-| **Python** | Signal pipeline, ML analysis, feedback CSV generation, backtest comparison, diagnostics, tooling scripts. |
-| **Node.js** | API gateway, internal web backend, trading API, worker orchestration, partner/API access patterns. |
-| **Supabase** | Signal persistence, backend data layer, dashboard/API integration, production state storage. |
-| **Telegram** | Signal publishing workflow and operator/user delivery channel. |
-| **PM2** | Long-running process management for API, pipeline, worker, diagnostic, and retraining services. |
-| **HTML / SVG Docs** | Operator guides, runtime diagrams, audit reports, strategy explainers, and printable documentation. |
-| **Git Workflow** | Local-first source of truth, changelog discipline, release archives, sync/compile separation. |
+| **MQL5** | Expert Advisors, trading dashboards, automation tools, and MetaTrader 5 integrations. |
+| **Python** | Data analysis, automation scripts, trading research tools, and backend support. |
+| **Node.js** | Business APIs, web backends, dashboards, and service integrations. |
+| **Supabase** | Database-backed products, dashboards, account flows, and service data. |
+| **Telegram** | Bots, alerts, signal delivery, support flows, and business automation. |
+| **PM2** | Production service management for always-on systems and workers. |
+| **HTML / SVG Docs** | Client guides, product pages, dashboards, reports, and business documentation. |
+| **Git Workflow** | Version control, release tracking, documentation, and maintainable project history. |
 
 ## What I Build
 
-| Capability | Evidence In My Work |
+| Capability | Public Value |
 | --- | --- |
-| **Trading-system architecture** | Multi-engine workspace with separated EA, AI analysis, indicator, BTC, and global brain areas. |
-| **Risk-first runtime design** | DD tiers, equity hard-stop, exposure caps, spread/news guards, anomaly hold, recovery ownership, and close safety. |
-| **Adaptive strategy logic** | Market classification, volatility-aware spacing, range-mode behavior, fast response lanes, and controlled re-entry. |
-| **Telemetry and auditability** | AutoCheck evidence files, schema versioning, runtime event rows, blocker reasons, module traces, and GO/NO-GO checks. |
-| **Operator tooling** | MT5 dashboard UI, UserGuide pages, dev HTML documentation, SVG flow maps, and release/audit reports. |
-| **AI and signal infrastructure** | Python signal brain, AI readers, multi-timeframe voting, Supabase-first publishing, Telegram delivery, and optional executor flow. |
-| **Release discipline** | Build sync, manual MetaEditor compile policy, EX5 archive control, changelog updates, and documented public/private toggles. |
+| **Trading-system development** | Private trading tools designed around stability, monitoring, and controlled execution. |
+| **Investor-ready products** | Clear product direction, documentation, dashboards, and practical workflows for growth. |
+| **Digital marketing operations** | Ads, pages, account support, and campaign systems for businesses that need online reach. |
+| **Website and shop building** | Business websites, service pages, e-commerce structure, and customer-facing web experiences. |
+| **Telegram automation** | Bots for alerts, delivery, customer flow, trading communities, and business support. |
+| **Business systems** | Admin tools, dashboards, reporting pages, and process automation for daily operations. |
 
-## Current Runtime Principles
+## Working Principles
 
 | Principle | How I Apply It |
 | --- | --- |
-| **Risk before entry** | Every new exposure should pass safety, spread, volatility, margin, session, news, DD, and exposure checks first. |
-| **Survival before profit** | Profit logic is useful only when the account can survive volatility, news spikes, and one-sided trend pressure. |
-| **Adaptation before prediction** | Runtime should respond to market regime, volatility, range quality, and execution state instead of relying on fixed assumptions. |
-| **Control before aggression** | Recovery, helper, and grid expansion must respect operator limits and avoid hidden layer-count overrides. |
-| **Evidence before release** | Runtime changes need telemetry, AutoCheck review, Critical/High cleanup, and clear documentation before public release. |
-
-## Public-Safe Technical Snapshot
-
-```txt
-VS Gold Intelligence Engine
-|- MQL5 Expert Advisor runtime
-|- VSConcept intelligence and execution planning
-|- VSSteadyGrow isolated SL/TP execution
-|- adaptive grid, range, and market-classification logic
-|- VSRecovery core plus VSLayer imbalance helper
-|- SmartLock basket-profit protection
-|- AutoCheck schema v5 runtime telemetry
-|- MT5 dashboard and operator documentation
-`- tools for ML feedback, CSV evidence, sync, audit, and release control
-
-V.S Intelligent
-|- Python XAUUSD signal pipeline
-|- Node API gateway and internal trading APIs
-|- web dashboards for users/admin/operator flows
-|- Supabase persistence and diagnostics
-|- Telegram signal publication
-`- optional user executor and production worker fleet
-```
+| **Privacy for core systems** | Public pages describe outcomes and features, while private trading logic stays protected. |
+| **Risk-first thinking** | Trading products are positioned around control, monitoring, and long-term reliability. |
+| **Business usefulness** | Systems should solve real client problems, not only look good in a demo. |
+| **Clear communication** | Services, docs, dashboards, and reports should be easy for clients and operators to understand. |
+| **Build for growth** | Products should support future users, teams, investors, and service expansion. |
 
 ## Development Style
 
-- Build modular systems that can be inspected, tested, and improved without rewriting the whole engine.
-- Keep risk and recovery logic explicit instead of hiding protection behavior inside magic defaults.
-- Use logs, CSV evidence, audits, and operator docs as part of the product, not side notes.
-- Preserve stable engine behavior while improving one focused module at a time.
-- Treat release readiness as an engineering decision, not a feeling.
+- Build practical tools for trading, marketing, automation, and business growth.
+- Keep private implementation details protected while presenting clear product value publicly.
+- Design dashboards, websites, and systems that clients can actually operate.
+- Use documentation and reporting to make complex systems easier to trust.
+- Improve products step by step with real testing and user feedback.
 
 ---
 
 <div align="center">
 
-**Chhuy Vannith Dev**<br>
-Algorithmic trading systems, AI signal infrastructure, and risk-first engineering for XAUUSD.
+**CHHUY VANNITH DEV**<br>
+Trading technology, digital services, websites, business systems, and Telegram automation.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ChhuyVannithDev-A7FF00?style=for-the-badge&labelColor=062A30&color=A7FF00)](https://github.com/ChhuyVannithDev)
-[![Telegram](https://img.shields.io/badge/Telegram-@ChhuyVannithDev-FFD34D?style=for-the-badge&labelColor=062A30&color=FFD34D)](https://t.me/ChhuyVannithDev)
+[![GitHub](https://img.shields.io/badge/GitHub-ChhuyVannithDev-0F4A43?style=for-the-badge&labelColor=062A30&color=0F4A43)](https://github.com/ChhuyVannithDev)
+[![Telegram](https://img.shields.io/badge/Telegram-@ChhuyVannithDev-155A4F?style=for-the-badge&labelColor=062A30&color=155A4F)](https://t.me/ChhuyVannithDev)
 
 </div>
