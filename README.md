@@ -127,7 +127,7 @@ A full-service digital studio driving **measurable business growth** — perform
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ChhuyVannithDev&hide_border=true&background=062A30&stroke=0F4A43&ring=2ED9B4&fire=2ED9B4&currStreakLabel=2ED9B4&sideLabels=ffffff&dates=cccccc&currStreakNum=ffffff&sideNums=ffffff" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ChhuyVannithDev&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChhuyVannithDev&bg_color=062A30&color=2ED9B4&line=2ED9B4&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
