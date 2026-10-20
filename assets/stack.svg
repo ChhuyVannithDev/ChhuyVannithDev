@@ -78,15 +78,15 @@
   <!-- pipeline card -->
   <g class="row" style="animation-delay:.9s">
     <rect x="946" y="79" width="214" height="266" rx="14" fill="#080F25" stroke="#F5C518" stroke-opacity=".35"/>
-    <text x="966" y="110" class="mono" font-size="11" font-weight="700" fill="#F5C518" letter-spacing="2">ONE PERSON,</text>
-    <text x="966" y="128" class="mono" font-size="11" font-weight="700" fill="#F5C518" letter-spacing="2">FULL PIPELINE</text>
+    <text x="966" y="110" class="mono" font-size="11" font-weight="700" fill="#F5C518" letter-spacing="2">WHAT I</text>
+    <text x="966" y="128" class="mono" font-size="11" font-weight="700" fill="#F5C518" letter-spacing="2">DELIVER</text>
     <g class="sans" font-size="15" fill="#E5EDF5">
-      <text x="966" y="168">Idea</text>
-      <text x="966" y="198">Backtest</text>
-      <text x="966" y="228">Engine + API</text>
-      <text x="966" y="258">Admin + Web</text>
-      <text x="966" y="288">MT5 EA</text>
-      <text x="966" y="318" font-weight="800" fill="url(#gold)">Live</text>
+      <text x="966" y="168">MT5 Expert Advisors</text>
+      <text x="966" y="198">Trading dashboards</text>
+      <text x="966" y="228">Web apps &amp; shops</text>
+      <text x="966" y="258">Ad campaigns</text>
+      <text x="966" y="288">Telegram bots</text>
+      <text x="966" y="318" font-weight="800" fill="url(#gold)">Live &amp; supported</text>
     </g>
     <g fill="#8F9DAD" class="mono" font-size="12">
       <text x="1136" y="168" text-anchor="end">01</text>

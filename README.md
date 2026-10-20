@@ -5,63 +5,63 @@
 </p>
 
 <p align="center">
-  <a href="https://vsmasteryhub.com"><img src="https://img.shields.io/badge/VS_Mastery_Hub-vsmasteryhub.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=tradingview&logoColor=BAFD00" alt="vsmasteryhub.com" /></a>
-  <a href="https://goldos.vsmasteryhub.com"><img src="https://img.shields.io/badge/Gold_OS-live-0F1A3D?style=for-the-badge&labelColor=050A18&logo=bitcoin&logoColor=F5C518" alt="Gold OS" /></a>
-  <a href="https://vincentchhuy.com"><img src="https://img.shields.io/badge/Agency-vincentchhuy.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=googlechrome&logoColor=00E5FF" alt="vincentchhuy.com" /></a>
+  <a href="https://vsmasteryhub.com"><img src="https://img.shields.io/badge/Trading_Hub-vsmasteryhub.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=tradingview&logoColor=BAFD00" alt="vsmasteryhub.com" /></a>
+  <a href="https://vincentchhuy.com"><img src="https://img.shields.io/badge/Digital_Agency-vincentchhuy.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=googlechrome&logoColor=00E5FF" alt="vincentchhuy.com" /></a>
   <a href="https://t.me/ChhuyVannithDev"><img src="https://img.shields.io/badge/Telegram-@ChhuyVannithDev-0F1A3D?style=for-the-badge&labelColor=050A18&logo=telegram&logoColor=4FA3E0" alt="Telegram" /></a>
 </p>
 
-<br />
+## 👋 About Me
 
-> **I build gold-trading systems end to end** — from a raw idea, through backtesting, into a live Python engine, an API, an admin panel, a public web app and the MT5 Expert Advisor that executes the trade.
-> I build all of it with **Claude Code** as my daily engineering partner, using my own skills, audit agents and memory, so a one-person team ships like a full studio.
-> Alongside the trading work, I run **Vincent Digital**, which handles ads, e-commerce and business automation for real brands.
-
-<br />
-
-## ⚡ How I Build
+I'm a **Cambodia-based systems developer and digital business operator** building at the intersection of **algorithmic trading** and **digital growth**. I design trading technology under the proprietary **VSConcept** framework at **V.S Mastery Hub**, and I run performance-marketing and web-product services through **Vincent Digital Marketing**. Everything I build is made to work in **real operations**, not just in demos.
 
 <p align="center">
-  <img src="assets/claude-workflow.svg" width="100%" alt="Claude Code session running a Process Audit Check: measure, fan out read-only auditors, verify against real data, wait for approval, then ship one fix per commit with a test" />
+  <img src="assets/about.svg" width="100%" alt="Profile: algorithmic trading developer and growth operator, VSConcept framework, V.S Mastery Hub and Vincent Digital Marketing" />
 </p>
 
-## 🚀 What I'm Building
+## 🧩 Ventures & Products
 
 <p align="center">
-  <a href="https://vsmasteryhub.com"><img src="assets/card-vsmasteryhub.svg" width="32%" alt="V.S Mastery Hub" /></a>
-  <a href="https://goldos.vsmasteryhub.com"><img src="assets/card-goldos.svg" width="32%" alt="VS Gold OS" /></a>
-  <a href="https://vincentchhuy.com"><img src="assets/card-vincentdigital.svg" width="32%" alt="Vincent Digital" /></a>
+  <a href="https://vsmasteryhub.com"><img src="assets/card-vsmasteryhub.svg" width="32%" alt="V.S Mastery Hub — trading technology ecosystem" /></a>
+  <a href="https://goldos.vsmasteryhub.com"><img src="assets/card-goldos.svg" width="32%" alt="VS Gold OS — XAUUSD trading engine" /></a>
+  <a href="https://vincentchhuy.com"><img src="assets/card-vincentdigital.svg" width="32%" alt="Vincent Digital — digital growth and web products" /></a>
 </p>
 
-## 🧭 System Map
+## 🛠️ Services
 
 <p align="center">
-  <img src="assets/system-map.svg" width="100%" alt="Market data → Python trading engine → Node API (PostgreSQL) → MT5 EAs, Laravel WebAdmin, React WebUI, Telegram" />
+  <img src="assets/services.svg" width="100%" alt="Algorithmic trading systems, performance advertising, e-commerce and web, POS and business systems, automation and bots, branding and content" />
 </p>
 
-## 🟡 Three Ways to Trade Gold
-
-Every source I study is scored for each of these three styles: research papers, trading videos, live data and competitor EAs.
+## ⚙️ Engineering Stack
 
 <p align="center">
-  <img src="assets/trade-types.svg" width="100%" alt="Swing, Medium and Scalper / Grid trade types" />
+  <img src="assets/stack.svg" width="100%" alt="Trading, backend, frontend, data and infra, and AI automation stack" />
 </p>
 
-## 🛠️ Stack
+## 🌐 Selected Work
+
+| Area | Public Summary | Link |
+| --- | --- | --- |
+| **VSConcept Trading Framework** | AI-driven trading technology, automation and execution tooling for XAUUSD and modern markets. | [vsmasteryhub.com](https://vsmasteryhub.com) |
+| **VS Gold OS** | Gold trading platform with live performance views for traders and partners. | [goldos.vsmasteryhub.com](https://goldos.vsmasteryhub.com) |
+| **Brand Growth Portfolio** | Ads, web and branding for retail and lifestyle brands, including beauty, fashion and watches. | [vincentchhuy.com](https://vincentchhuy.com) |
+| **Private Trading R&D** | Risk-first EAs, on-chart dashboards and research workflows, developed privately. | Private R&D |
+| **Business Automation** | Shops, POS systems, admin dashboards and Telegram bots delivered for client operations. | Client projects |
+
+## 🧭 Working Principles
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Engineering stack across trading, backend, frontend, data and infra, and AI automation" />
+  <img src="assets/principles.svg" width="100%" alt="Risk-first engineering, privacy for core IP, real-world usefulness, clear communication, built to scale" />
 </p>
 
-## 🧱 Engineering Rules I Ship By
+## 📩 Let's Connect
 
-| Rule | Why |
-| --- | --- |
-| **Fix the reported symptom, then stop** | Working production code is never rewritten just because an audit flagged it. Audit findings go to a backlog. |
-| **One change at a time on live systems** | Each change gets its own commit, its own deploy and its own test, so any regression traces back to one cause. |
-| **Production is never the test bed** | A dedicated test VPS and staging prove a build first. Live only takes proven builds. |
-| **Tag only what passed a live test** | A `Stable-Release` tag means the build has traded real money, not just that it compiled. |
-| **Features public, core logic private** | Product pages show what a system does. Strategy logic stays closed. |
+<p align="center">
+  <a href="https://vsmasteryhub.com"><img src="https://img.shields.io/badge/Trading_Hub-vsmasteryhub.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=tradingview&logoColor=BAFD00" alt="vsmasteryhub.com" /></a>
+  <a href="https://vincentchhuy.com"><img src="https://img.shields.io/badge/Digital_Agency-vincentchhuy.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=googlechrome&logoColor=00E5FF" alt="vincentchhuy.com" /></a>
+  <a href="https://t.me/ChhuyVannithDev"><img src="https://img.shields.io/badge/Telegram-@ChhuyVannithDev-0F1A3D?style=for-the-badge&labelColor=050A18&logo=telegram&logoColor=4FA3E0" alt="Telegram" /></a>
+  <a href="https://github.com/ChhuyVannithDev"><img src="https://img.shields.io/badge/GitHub-ChhuyVannithDev-0F1A3D?style=for-the-badge&labelColor=050A18&logo=github&logoColor=F5C518" alt="GitHub" /></a>
+</p>
 
 <br />
 

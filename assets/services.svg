@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="424" viewBox="0 0 1200 424" role="img" aria-labelledby="t d">
+  <title id="t">Services</title>
+  <desc id="d">Algorithmic trading systems, performance advertising, e-commerce and web, POS and business systems, automation and bots, branding and content.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1430"/>
+      <stop offset="1" stop-color="#050A18"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+    .k{font-size:11px;font-weight:700;letter-spacing:2px}
+    .h{font-size:21px;font-weight:800;fill:#E5EDF5}
+    .p{font-size:15px;fill:#A3B1BF}
+  </style>
+
+  <!-- 01 trading -->
+  <g transform="translate(40 10)">
+    <rect width="357" height="190" rx="18" fill="url(#card)" stroke="#16244F"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#F5C518" fill-opacity=".12" stroke="#F5C518" stroke-opacity=".5"/>
+    <g stroke-width="2"><line x1="38" y1="36" x2="38" y2="62" stroke="#00E676"/><rect x="34" y="42" width="8" height="12" rx="1.5" fill="#00E676"/><line x1="48" y1="32" x2="48" y2="58" stroke="#FF3D71"/><rect x="44" y="36" width="8" height="14" rx="1.5" fill="#FF3D71"/><line x1="58" y1="30" x2="58" y2="54" stroke="#00E676"/><rect x="54" y="34" width="8" height="12" rx="1.5" fill="#00E676"/></g>
+    <text x="88" y="44" class="mono k" fill="#F5C518">01 · TRADING TECH</text>
+    <text x="88" y="66" class="mono" font-size="12" fill="#8F9DAD">MQL5 · MT5 · Python</text>
+    <text x="24" y="114" class="sans h">Algorithmic Trading Systems</text>
+    <text x="24" y="144" class="sans p">Expert Advisors, MT5 dashboards, risk</text>
+    <text x="24" y="166" class="sans p">controls and live telemetry.</text>
+  </g>
+
+  <!-- 02 ads -->
+  <g transform="translate(421 10)">
+    <rect width="357" height="190" rx="18" fill="url(#card)" stroke="#16244F"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#BAFD00" fill-opacity=".1" stroke="#BAFD00" stroke-opacity=".5"/>
+    <g fill="#BAFD00"><rect x="34" y="52" width="7" height="10" rx="1.5"/><rect x="45" y="44" width="7" height="18" rx="1.5"/><rect x="56" y="36" width="7" height="26" rx="1.5"/></g>
+    <path d="M34 42 L46 34 L52 38 L62 30" fill="none" stroke="#E4FF8A" stroke-width="2" stroke-linecap="round"/>
+    <text x="88" y="44" class="mono k" fill="#BAFD00">02 · GROWTH</text>
+    <text x="88" y="66" class="mono" font-size="12" fill="#8F9DAD">Facebook · TikTok</text>
+    <text x="24" y="114" class="sans h">Performance Advertising</text>
+    <text x="24" y="144" class="sans p">Campaign strategy, audience targeting,</text>
+    <text x="24" y="166" class="sans p">creative, optimization and reporting.</text>
+  </g>
+
+  <!-- 03 web -->
+  <g transform="translate(802 10)">
+    <rect width="358" height="190" rx="18" fill="url(#card)" stroke="#16244F"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-opacity=".5"/>
+    <rect x="33" y="34" width="30" height="26" rx="3" fill="none" stroke="#00E5FF" stroke-width="2"/>
+    <line x1="33" y1="41" x2="63" y2="41" stroke="#00E5FF" stroke-width="2"/>
+    <rect x="37" y="45" width="10" height="11" rx="1" fill="#00E5FF" opacity=".6"/><rect x="50" y="45" width="9" height="4" rx="1" fill="#00E5FF" opacity=".6"/><rect x="50" y="52" width="9" height="4" rx="1" fill="#00E5FF" opacity=".6"/>
+    <text x="88" y="44" class="mono k" fill="#00E5FF">03 · WEB</text>
+    <text x="88" y="66" class="mono" font-size="12" fill="#8F9DAD">Laravel · React · WordPress</text>
+    <text x="24" y="114" class="sans h">E-commerce &amp; Web</text>
+    <text x="24" y="144" class="sans p">Business sites, landing pages and</text>
+    <text x="24" y="166" class="sans p">shop builds designed to convert.</text>
+  </g>
+
+  <!-- 04 pos -->
+  <g transform="translate(40 224)">
+    <rect width="357" height="190" rx="18" fill="url(#card)" stroke="#16244F"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#C792EA" fill-opacity=".1" stroke="#C792EA" stroke-opacity=".5"/>
+    <path d="M36 32 H60 V64 L56 61 L52 64 L48 61 L44 64 L40 61 L36 64 Z" fill="none" stroke="#C792EA" stroke-width="2" stroke-linejoin="round"/>
+    <g stroke="#C792EA" stroke-width="2" stroke-linecap="round"><line x1="41" y1="40" x2="55" y2="40"/><line x1="41" y1="46" x2="55" y2="46"/><line x1="41" y1="52" x2="49" y2="52"/></g>
+    <text x="88" y="44" class="mono k" fill="#C792EA">04 · OPERATIONS</text>
+    <text x="88" y="66" class="mono" font-size="12" fill="#8F9DAD">POS · inventory · admin</text>
+    <text x="24" y="114" class="sans h">POS &amp; Business Systems</text>
+    <text x="24" y="144" class="sans p">Point-of-sale, inventory and admin</text>
+    <text x="24" y="166" class="sans p">dashboards for daily operations.</text>
+  </g>
+
+  <!-- 05 bots -->
+  <g transform="translate(421 224)">
+    <rect width="357" height="190" rx="18" fill="url(#card)" stroke="#16244F"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#4FA3E0" fill-opacity=".12" stroke="#4FA3E0" stroke-opacity=".5"/>
+    <path d="M32 47 L64 33 L57 63 L48 54 L60 39 L44 51 Z" fill="#4FA3E0"/>
+    <text x="88" y="44" class="mono k" fill="#4FA3E0">05 · AUTOMATION</text>
+    <text x="88" y="66" class="mono" font-size="12" fill="#8F9DAD">Telegram · AI-assisted</text>
+    <text x="24" y="114" class="sans h">Automation &amp; Bots</text>
+    <text x="24" y="144" class="sans p">Telegram bots, AI-assisted orders,</text>
+    <text x="24" y="166" class="sans p">alerts and workflow automation.</text>
+  </g>
+
+  <!-- 06 brand -->
+  <g transform="translate(802 224)">
+    <rect width="358" height="190" rx="18" fill="url(#card)" stroke="#16244F"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#FF79C6" fill-opacity=".1" stroke="#FF79C6" stroke-opacity=".5"/>
+    <circle cx="48" cy="48" r="14" fill="none" stroke="#FF79C6" stroke-width="2"/>
+    <path d="M44 41 L55 48 L44 55 Z" fill="#FF79C6"/>
+    <text x="88" y="44" class="mono k" fill="#FF79C6">06 · BRAND</text>
+    <text x="88" y="66" class="mono" font-size="12" fill="#8F9DAD">logo · video · content</text>
+    <text x="24" y="114" class="sans h">Branding &amp; Content</text>
+    <text x="24" y="144" class="sans p">Logo, video and brand assets for</text>
+    <text x="24" y="166" class="sans p">growth campaigns and launches.</text>
+  </g>
+</svg>
