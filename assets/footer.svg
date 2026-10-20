@@ -2,9 +2,8 @@
   <title id="t">Trading technology · Digital growth · Built with Claude Code</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#050A18"/>
-      <stop offset=".5" stop-color="#0B1430"/>
-      <stop offset="1" stop-color="#050A18"/>
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
     <clipPath id="frame"><rect width="1200" height="120" rx="20"/></clipPath>
   </defs>
@@ -15,7 +14,7 @@
   </style>
   <g clip-path="url(#frame)">
     <rect width="1200" height="120" fill="url(#bg)"/>
-    <line x1="0" y1="40" x2="1200" y2="40" stroke="#16244F"/>
+    <line x1="0" y1="40" x2="1200" y2="40" stroke="#30363D"/>
     <g class="tape mono" font-size="13" font-weight="700">
       <text x="10" y="26" textLength="1180" lengthAdjust="spacing"><tspan fill="#F5C518">XAUUSD ▲</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#BAFD00">VS GOLD OS</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#00E5FF">MQL5 EXPERT ADVISORS</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#D97757">BUILT WITH CLAUDE CODE</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#00E676">RISK FIRST</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#E5EDF5">CAMBODIA</tspan></text>
       <text x="1210" y="26" textLength="1180" lengthAdjust="spacing"><tspan fill="#F5C518">XAUUSD ▲</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#BAFD00">VS GOLD OS</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#00E5FF">MQL5 EXPERT ADVISORS</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#D97757">BUILT WITH CLAUDE CODE</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#00E676">RISK FIRST</tspan><tspan fill="#8F9DAD"> · </tspan><tspan fill="#E5EDF5">CAMBODIA</tspan></text>
@@ -23,4 +22,5 @@
     <text x="600" y="78" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#E5EDF5">Features shown publicly. Core logic stays private.</text>
     <text x="600" y="102" text-anchor="middle" class="mono" font-size="12" fill="#8F9DAD">© VSDev · Chhuy Vannith</text>
   </g>
+  <rect x=".5" y=".5" width="1199" height="119" rx="19.5" fill="none" stroke="#30363D"/>
 </svg>
