@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" role="img" aria-labelledby="t">
+  <title id="t">V.S Mastery Hub — vsmasteryhub.com</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1430"/>
+      <stop offset="1" stop-color="#050A18"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".9" cy=".1" r=".7">
+      <stop offset="0" stop-color="#BAFD00" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#BAFD00" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+  </style>
+  <rect x="1" y="1" width="398" height="238" rx="18" fill="url(#bg)" stroke="#16244F"/>
+  <rect x="1" y="1" width="398" height="238" rx="18" fill="url(#glow)"/>
+  <rect x="24" y="24" width="40" height="40" rx="10" fill="#BAFD00"/>
+  <text x="44" y="50" text-anchor="middle" class="sans" font-size="16" font-weight="900" fill="#050A18">VS</text>
+  <text x="78" y="40" class="mono" font-size="11" font-weight="700" fill="#BAFD00" letter-spacing="2">TRADING ECOSYSTEM</text>
+  <text x="78" y="60" class="mono" font-size="11" fill="#8F9DAD">flagship · since day one</text>
+  <text x="372" y="48" text-anchor="end" class="sans" font-size="22" fill="#BAFD00">↗</text>
+  <text x="24" y="112" class="sans" font-size="26" font-weight="800" fill="#E5EDF5">V.S Mastery Hub</text>
+  <text x="24" y="142" class="sans" font-size="16" fill="#A3B1BF">AI-driven trading technology,</text>
+  <text x="24" y="164" class="sans" font-size="16" fill="#A3B1BF">tools and education for traders.</text>
+  <rect x="24" y="186" width="168" height="30" rx="15" fill="#0F1A3D" stroke="#BAFD00" stroke-opacity=".4"/>
+  <text x="108" y="206" text-anchor="middle" class="mono" font-size="13" fill="#BAFD00">vsmasteryhub.com</text>
+</svg>
