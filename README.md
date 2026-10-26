@@ -1,3 +1,5 @@
+<img src="assets/hero.gif" width="100%" alt="Chhuy Vannith, builder of VS Gold OS: a code editor showing a developer profile and a terminal running build and deploy commands" />
+
 ## Hi, I'm Vannith 👋
 
 **Full-stack developer and trading systems engineer, based in Cambodia.**
@@ -28,6 +30,8 @@ export const vannith = {
 ---
 
 ### ⚡ Flagship: VS Gold OS
+
+<a href="https://goldos.vsmasteryhub.com"><img src="assets/goldos.gif" width="100%" alt="VS Gold OS card with an animated XAUUSD price chart (simulated feed for display)" /></a>
 
 A multi-strategy **XAUUSD** trading engine that runs on its own server while the market is open, with a public site showing its live performance.
 
