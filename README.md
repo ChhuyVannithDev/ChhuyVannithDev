@@ -1,70 +1,88 @@
-<!-- All visuals are self-hosted SVGs in /assets — no third-party stat widgets, so nothing breaks or hits a quota. -->
+## Hi, I'm Vannith 👋
 
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Chhuy Vannith — Trading Systems Engineer · Gold automation · full-stack products · Claude-native workflow" />
-</p>
+**Full-stack developer and trading systems engineer, based in Cambodia.**
 
-<p align="center">
-  <a href="https://vsmasteryhub.com"><img src="https://img.shields.io/badge/Trading_Hub-vsmasteryhub.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=tradingview&logoColor=BAFD00" alt="vsmasteryhub.com" /></a>
-  <a href="https://vincentchhuy.com"><img src="https://img.shields.io/badge/Digital_Agency-vincentchhuy.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=googlechrome&logoColor=00E5FF" alt="vincentchhuy.com" /></a>
-  <a href="https://t.me/ChhuyVannithDev"><img src="https://img.shields.io/badge/Telegram-@ChhuyVannithDev-0F1A3D?style=for-the-badge&labelColor=050A18&logo=telegram&logoColor=4FA3E0" alt="Telegram" /></a>
-</p>
+My main product is **[VS Gold OS](https://goldos.vsmasteryhub.com)**, a gold trading engine that runs live. Around it I build AI-powered automation, web platforms and the marketing that brings in customers.
 
-## 👋 About Me
+[![VS Gold OS](https://img.shields.io/badge/VS_Gold_OS-live-F5C518?style=flat-square&labelColor=050A18)](https://goldos.vsmasteryhub.com)
+[![Website](https://img.shields.io/badge/vincentchhuy.com-0F1A3D?style=flat-square&logo=googlechrome&logoColor=F5C518)](https://vincentchhuy.com)
+[![Trading Hub](https://img.shields.io/badge/vsmasteryhub.com-0F1A3D?style=flat-square&logo=tradingview&logoColor=F5C518)](https://vsmasteryhub.com)
+[![Telegram](https://img.shields.io/badge/@ChhuyVannithDev-0F1A3D?style=flat-square&logo=telegram&logoColor=F5C518)](https://t.me/ChhuyVannithDev)
 
-I'm a **Cambodia-based systems developer and digital business operator** building at the intersection of **algorithmic trading** and **digital growth**. I design trading technology under the proprietary **VSConcept** framework at **V.S Mastery Hub**, and I run performance-marketing and web-product services through **Vincent Digital Marketing**. Everything I build is made to work in **real operations**, not just in demos.
+```ts
+export const vannith = {
+  role: "Full-stack · Trading systems engineer",
+  based: "Cambodia (GMT+7)",
+  flagship: "VS Gold OS",                       // main product, live
+  ventures: ["V.S Mastery Hub", "Vincent Digital"],
+  stack: {
+    ai:      ["Claude Code", "LLM agents", "MCP", "Whisper"],
+    web:     ["React 19", "Laravel 12", "Node.js", "PostgreSQL"],
+    trading: ["MQL5", "MetaTrader 5", "Python"],
+  },
+  principle: "risk first, one tested change at a time",
+  openToWork: true,
+};
+```
 
-<p align="center">
-  <img src="assets/about.svg" width="100%" alt="Profile: algorithmic trading developer and growth operator, VSConcept framework, V.S Mastery Hub and Vincent Digital Marketing" />
-</p>
+---
 
-## 🧩 Ventures & Products
+### ⚡ Flagship: VS Gold OS
 
-<p align="center">
-  <a href="https://vsmasteryhub.com"><img src="assets/card-vsmasteryhub.svg" width="32%" alt="V.S Mastery Hub — trading technology ecosystem" /></a>
-  <a href="https://goldos.vsmasteryhub.com"><img src="assets/card-goldos.svg" width="32%" alt="VS Gold OS — XAUUSD trading engine" /></a>
-  <a href="https://vincentchhuy.com"><img src="assets/card-vincentdigital.svg" width="32%" alt="Vincent Digital — digital growth and web products" /></a>
-</p>
+A multi-strategy **XAUUSD** trading engine that runs on its own server while the market is open, with a public site showing its live performance.
 
-## 🛠️ Services
+- **Multi-strategy:** several strategies trade gold side by side on one engine
+- **Risk first:** every trade has a stop loss and a take profit
+- **Results in public:** live performance at [goldos.vsmasteryhub.com](https://goldos.vsmasteryhub.com)
 
-<p align="center">
-  <img src="assets/services.svg" width="100%" alt="Algorithmic trading systems, performance advertising, e-commerce and web, POS and business systems, automation and bots, branding and content" />
-</p>
+### Other ventures
 
-## ⚙️ Engineering Stack
-
-<p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Trading, backend, frontend, data and infra, and AI automation stack" />
-</p>
-
-## 🌐 Selected Work
-
-| Area | Public Summary | Link |
+| Venture | What it is | Link |
 | --- | --- | --- |
-| **VSConcept Trading Framework** | AI-driven trading technology, automation and execution tooling for XAUUSD and modern markets. | [vsmasteryhub.com](https://vsmasteryhub.com) |
-| **VS Gold OS** | Gold trading platform with live performance views for traders and partners. | [goldos.vsmasteryhub.com](https://goldos.vsmasteryhub.com) |
-| **Brand Growth Portfolio** | Ads, web and branding for retail and lifestyle brands, including beauty, fashion and watches. | [vincentchhuy.com](https://vincentchhuy.com) |
-| **Private Trading R&D** | Risk-first EAs, on-chart dashboards and research workflows, developed privately. | Private R&D |
-| **Business Automation** | Shops, POS systems, admin dashboards and Telegram bots delivered for client operations. | Client projects |
+| **V.S Mastery Hub** | Trading platform with tools, membership and education for traders | [vsmasteryhub.com](https://vsmasteryhub.com) |
+| **Vincent Digital** | My agency for ads, websites, online shops and business systems | [vincentchhuy.com](https://vincentchhuy.com) |
 
-## 🧭 Working Principles
+### Services
 
-<p align="center">
-  <img src="assets/principles.svg" width="100%" alt="Risk-first engineering, privacy for core IP, real-world usefulness, clear communication, built to scale" />
-</p>
+| Service | What you get |
+| --- | --- |
+| **AI automation and bots** | Telegram bots, alerts, AI-assisted orders and workflow automation |
+| **MT5 trading tools** | Expert Advisors, trade copiers, on-chart dashboards, risk controls |
+| **Web apps and product sites** | Laravel + React apps and landing pages with accounts, payments and admin |
+| **E-commerce** | Online shops built to convert, with local payment integration |
+| **Business systems** | Point of sale, inventory and admin dashboards |
+| **Ads and branding** | Facebook and TikTok campaigns, logo, video and content |
 
-## 📩 Let's Connect
+### Tech I work with
 
-<p align="center">
-  <a href="https://vsmasteryhub.com"><img src="https://img.shields.io/badge/Trading_Hub-vsmasteryhub.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=tradingview&logoColor=BAFD00" alt="vsmasteryhub.com" /></a>
-  <a href="https://vincentchhuy.com"><img src="https://img.shields.io/badge/Digital_Agency-vincentchhuy.com-0F1A3D?style=for-the-badge&labelColor=050A18&logo=googlechrome&logoColor=00E5FF" alt="vincentchhuy.com" /></a>
-  <a href="https://t.me/ChhuyVannithDev"><img src="https://img.shields.io/badge/Telegram-@ChhuyVannithDev-0F1A3D?style=for-the-badge&labelColor=050A18&logo=telegram&logoColor=4FA3E0" alt="Telegram" /></a>
-  <a href="https://github.com/ChhuyVannithDev"><img src="https://img.shields.io/badge/GitHub-ChhuyVannithDev-0F1A3D?style=for-the-badge&labelColor=050A18&logo=github&logoColor=F5C518" alt="GitHub" /></a>
-</p>
+| Area | Tools |
+| --- | --- |
+| AI and automation | Claude Code, LLM agents, MCP, Whisper, Telegram bots |
+| Frontend | React 19, Vite, Tailwind CSS, three.js |
+| Backend | Laravel 12, PHP 8, Node.js, REST APIs |
+| Trading | MQL5, MetaTrader 5, Python, backtesting |
+| Data and DevOps | PostgreSQL, Supabase, Docker, nginx, Linux VPS |
 
-<br />
+### What I've shipped
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Features shown publicly. Core logic stays private." />
-</p>
+```text
+* feat/engine    VS Gold OS: multi-strategy gold engine, running live with a public performance site
+* feat/platform  V.S Mastery Hub: membership platform with accounts, payments and admin panel
+* feat/mt5       Expert Advisors, a trade copier and on-chart dashboards for gold traders
+* feat/brands    Ads, websites and branding for beauty, fashion and watch brands
+* feat/clients   Shops, POS systems, admin dashboards and Telegram bots in daily use
+```
+
+### How I work
+
+- **Risk first.** Control and monitoring come before new features.
+- **Small, tested changes.** One change at a time, proven before it goes live.
+- **Clear handover.** Docs and dashboards that clients can actually read.
+- **Private core.** Results are public, proprietary logic stays private.
+
+### Get in touch
+
+I'm open to AI automation, web and business-system projects, MT5 tool builds and trading-tech partnerships.
+The fastest way to reach me is Telegram: [@ChhuyVannithDev](https://t.me/ChhuyVannithDev).
+
+<sub>Chhuy Vannith · VSDev · Cambodia</sub>
