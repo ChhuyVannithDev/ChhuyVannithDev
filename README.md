@@ -1,92 +1,66 @@
-<img src="assets/hero.gif" width="100%" alt="Chhuy Vannith, builder of VS Gold OS: a code editor showing a developer profile and a terminal running build and deploy commands" />
+<img src="assets/banner.png" width="100%" alt="Chhuy Vannith: Founder, Developer and Tech Investor. VS GOLD OS, V.S Mastery Hub, Vincent Digital." />
 
-## Hi, I'm Vannith 👋
+[![VS GOLD OS](https://img.shields.io/badge/VS_GOLD_OS-goldos.vsmasteryhub.com-F5C518?style=flat-square&labelColor=0B1430)](https://goldos.vsmasteryhub.com)
+[![V.S Mastery Hub](https://img.shields.io/badge/V.S_Mastery_Hub-vsmasteryhub.com-BAFD00?style=flat-square&labelColor=0B1430)](https://vsmasteryhub.com)
+[![Vincent Digital](https://img.shields.io/badge/Vincent_Digital-vincentchhuy.com-8FB8FF?style=flat-square&labelColor=0B1430)](https://vincentchhuy.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@ChhuyVannithDev-E5EDF5?style=flat-square&labelColor=0B1430&logo=telegram&logoColor=E5EDF5)](https://t.me/ChhuyVannithDev)
 
-**Full-stack developer and trading systems engineer, based in Cambodia.**
+I'm **Chhuy Vannith** (VANNITH), founder of **V.S Mastery Hub** in Phnom Penh, Cambodia.
 
-My main product is **[VS Gold OS](https://goldos.vsmasteryhub.com)**, a gold trading engine that runs live. Around it I build AI-powered automation, web platforms and the marketing that brings in customers.
+I work on markets from three sides. **As an investor**, I trade my own capital. **As a developer**, I write the systems, the MT5 Expert Advisors and the AI that read the gold market every day. **As a founder**, I turn what works into products other traders can use.
 
-[![VS Gold OS](https://img.shields.io/badge/VS_Gold_OS-live-F5C518?style=flat-square&labelColor=050A18)](https://goldos.vsmasteryhub.com)
-[![Website](https://img.shields.io/badge/vincentchhuy.com-0F1A3D?style=flat-square&logo=googlechrome&logoColor=F5C518)](https://vincentchhuy.com)
-[![Trading Hub](https://img.shields.io/badge/vsmasteryhub.com-0F1A3D?style=flat-square&logo=tradingview&logoColor=F5C518)](https://vsmasteryhub.com)
-[![Telegram](https://img.shields.io/badge/@ChhuyVannithDev-0F1A3D?style=flat-square&logo=telegram&logoColor=F5C518)](https://t.me/ChhuyVannithDev)
-
-```ts
-export const vannith = {
-  role: "Full-stack · Trading systems engineer",
-  based: "Cambodia (GMT+7)",
-  flagship: "VS Gold OS",                       // main product, live
-  ventures: ["V.S Mastery Hub", "Vincent Digital"],
-  stack: {
-    ai:      ["Claude Code", "LLM agents", "MCP", "Whisper"],
-    web:     ["React 19", "Laravel 12", "Node.js", "PostgreSQL"],
-    trading: ["MQL5", "MetaTrader 5", "Python"],
-  },
-  principle: "risk first, one tested change at a time",
-  openToWork: true,
-};
-```
+Everything I ship runs on my own accounts before it reaches anyone else's.
 
 ---
 
-### ⚡ Flagship: VS Gold OS
+### Ventures
 
-<a href="https://goldos.vsmasteryhub.com"><img src="assets/goldos.gif" width="100%" alt="VS Gold OS card with an animated XAUUSD price chart (simulated feed for display)" /></a>
+| | Venture | Role | What it is |
+| :-: | --- | --- | --- |
+| 🟡 | **[VS GOLD OS](https://goldos.vsmasteryhub.com)** | Creator | The operating system for trading gold. My flagship product. |
+| 🟢 | **[V.S Mastery Hub](https://vsmasteryhub.com)** | Founder | A next-generation gold trading ecosystem, built in-house and powered by our own AI. |
+| 🔵 | **[Vincent Digital](https://vincentchhuy.com)** | Founder | A digital agency for Facebook and TikTok ads, websites, custom software and Telegram bots. |
 
-A multi-strategy **XAUUSD** trading engine that runs on its own server while the market is open, with a public site showing its live performance.
+### Flagship: VS GOLD OS
 
-- **Multi-strategy:** several strategies trade gold side by side on one engine
-- **Risk first:** every trade has a stop loss and a take profit
-- **Results in public:** live performance at [goldos.vsmasteryhub.com](https://goldos.vsmasteryhub.com)
+> **Every force moving gold. Read in one place.**
 
-### Other ventures
+VS GOLD OS watches one market and never stops. It weighs everything moving gold, including the dollar, rates, oil and geopolitical risk, and gives one plain answer with the reasoning attached.
 
-| Venture | What it is | Link |
-| --- | --- | --- |
-| **V.S Mastery Hub** | Trading platform with tools, membership and education for traders | [vsmasteryhub.com](https://vsmasteryhub.com) |
-| **Vincent Digital** | My agency for ads, websites, online shops and business systems | [vincentchhuy.com](https://vincentchhuy.com) |
+- **Always on.** It reads gold 24/5, with no fatigue, no mood and no revenge trades.
+- **More than fixed code.** An LLM analyst reviews every setup but never places a trade.
+- **Knows when to stand aside.** Not trading is often the right call.
+- **On the record.** Results are tracked in public, good and bad.
 
-### Services
+### The V.S Mastery Hub lineup
 
-| Service | What you get |
+| Product | For |
 | --- | --- |
-| **AI automation and bots** | Telegram bots, alerts, AI-assisted orders and workflow automation |
-| **MT5 trading tools** | Expert Advisors, trade copiers, on-chart dashboards, risk controls |
-| **Web apps and product sites** | Laravel + React apps and landing pages with accounts, payments and admin |
-| **E-commerce** | Online shops built to convert, with local payment integration |
-| **Business systems** | Point of sale, inventory and admin dashboards |
-| **Ads and branding** | Facebook and TikTok campaigns, logo, video and content |
+| **GOLD OS Desk** | Traders who place their own trades: one verdict on gold with the reasoning, charts and news in one dashboard |
+| **GOLD OS SignalMaster EA** | Traders who want the setups taken for them on their own MT5, with their own risk settings |
+| **GOLD OS Straddle** | A breakout scalper EA for gold's fast moves |
+| **VS TradeConnectorSuite** | Linking several MT5 accounts so they trade in sync across brokers |
+| **Premium Indicators** | Invite-only TradingView scripts |
+| **Education and Community** | A gold trading course from the basics up, plus an open Telegram community |
 
-### Tech I work with
+### How I build and invest
+
+- **My own capital first.** A system goes to customers only after it has run on my accounts.
+- **Risk before returns.** Every trade has a stop. No product promises profit.
+- **In-house, end to end.** We own the engine, the AI, the EAs, the platform and the infrastructure.
+- **One proven change at a time.** Live systems get small, tested updates, never big rewrites.
+
+### Stack
 
 | Area | Tools |
 | --- | --- |
-| AI and automation | Claude Code, LLM agents, MCP, Whisper, Telegram bots |
-| Frontend | React 19, Vite, Tailwind CSS, three.js |
-| Backend | Laravel 12, PHP 8, Node.js, REST APIs |
-| Trading | MQL5, MetaTrader 5, Python, backtesting |
-| Data and DevOps | PostgreSQL, Supabase, Docker, nginx, Linux VPS |
+| AI | LLM agents, Claude Code, MCP, Whisper |
+| Trading | MQL5, MetaTrader 5, Python, TradingView Pine Script |
+| Product | React 19, Vite, Tailwind CSS, Laravel 12, Node.js |
+| Infrastructure | PostgreSQL, Supabase, Docker, nginx, Linux VPS |
 
-### What I've shipped
+### Contact
 
-```text
-* feat/engine    VS Gold OS: multi-strategy gold engine, running live with a public performance site
-* feat/platform  V.S Mastery Hub: membership platform with accounts, payments and admin panel
-* feat/mt5       Expert Advisors, a trade copier and on-chart dashboards for gold traders
-* feat/brands    Ads, websites and branding for beauty, fashion and watch brands
-* feat/clients   Shops, POS systems, admin dashboards and Telegram bots in daily use
-```
+For partnerships, investment or trading-technology projects, message me on Telegram: **[@ChhuyVannithDev](https://t.me/ChhuyVannithDev)**.
 
-### How I work
-
-- **Risk first.** Control and monitoring come before new features.
-- **Small, tested changes.** One change at a time, proven before it goes live.
-- **Clear handover.** Docs and dashboards that clients can actually read.
-- **Private core.** Results are public, proprietary logic stays private.
-
-### Get in touch
-
-I'm open to AI automation, web and business-system projects, MT5 tool builds and trading-tech partnerships.
-The fastest way to reach me is Telegram: [@ChhuyVannithDev](https://t.me/ChhuyVannithDev).
-
-<sub>Chhuy Vannith · VSDev · Cambodia</sub>
+<sub>Trading carries a risk of loss. Past performance does not predict future results.</sub>
